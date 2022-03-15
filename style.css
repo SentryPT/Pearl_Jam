@@ -1,12 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
 
-#body {
+body {
     background: #f2f2f1;
     margin: 0;
     font-family: "Arial"
 }
 
-.first-logo{
+.firstlogo{
         color: aquamarine;
         font-weight: bold;
 }
@@ -17,7 +17,7 @@ h1{
 }
 
 .header{
-    border: 2px;
+    border: 20px;
     color: blue;
 }
 Table, tr, th, td{ border : 1px solid rgb(54, 64, 196)}
