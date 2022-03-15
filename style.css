@@ -1,7 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
 
-#body {
-    background: #f2f2f1;
+li{
+    color: blue;
+    padding: 5px;
+    
+}
+body {
+    background: #bdbd38;
     margin: 0;
     font-family: "Arial"
 }
@@ -14,6 +19,8 @@
 h1{
     font-size: 40px;
     color: rgb(0, 0, 0);
+    padding: 23px;
+    text-align: center;
 }
 
 .header{
@@ -22,8 +29,3 @@ h1{
 }
 Table, tr, th, td{ border : 1px solid rgb(54, 64, 196)}
 Table, tr, th, td, thead, tbody, tfoot{ border : 1px solid rgb(54, 64, 196)}
-
-h1 {
-    padding: 20px;
-    color: aquamarine;
-}
