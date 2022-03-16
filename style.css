@@ -1,8 +1,18 @@
-header{
-
+body{
+    font-family: Copperplate, Papyrus, fantasy;
+    background-color: rgb(204, 209, 176);
+}
+.header-color{
+    text-shadow: 5px;
+    text-orientation: upright;
 }
 .firstlog{
     background-position: center;
+    text-align: center;
+    font-size: 50px;
+}     
+.main-text{
+    color: blue;
 }
 
 Table, tr, th, td{ border : 1px solid rgb(54, 64, 196)}
