@@ -1,7 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Hubballi&display=swap');
-
+<<<<<<< HEAD
 body {
     background: #f2f2f1;
+=======
+li{
+    color: blue;
+    padding: 5px;
+    
+}
+body {
+    background: #bdbd38;
+>>>>>>> 1599b36ffb163a7fc632519ccafda28993c4d364
     margin: 0;
     font-family: "Arial";
 }
@@ -9,7 +17,18 @@ body {
     .firstlogo{
         color: aquamarine;
         font-weight: bold;
+<<<<<<< HEAD
     }
+=======
+}
+
+h1{
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    padding: 23px;
+    text-align: center;
+}
+>>>>>>> 1599b36ffb163a7fc632519ccafda28993c4d364
 
 .header{
     border: 20px;
@@ -17,8 +36,3 @@ body {
 }
 Table, tr, th, td{ border : 1px solid rgb(54, 64, 196)}
 Table, tr, th, td, thead, tbody, tfoot{ border : 1px solid rgb(54, 64, 196)}
-
-h1 {
-    padding: 20px;
-    color: aquamarine;
-}
