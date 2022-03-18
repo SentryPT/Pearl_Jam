@@ -1,6 +1,7 @@
 body{
     font-family: Copperplate, Papyrus, fantasy;
     background-color: rgb(204, 209, 176);
+    padding: 10px;
 }
 .header-color{
     text-shadow: 5px;
