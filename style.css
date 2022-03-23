@@ -18,7 +18,9 @@ body{
 .page {
     border: 5px solid #665544;
     background-color: #efefef;
-    padding: inherit;}
+    padding: inherit;
+    -moz-box-shadow: 0px 5px 5px 0px;
+}
 
 Table, tr, th, td{ border : 1px solid rgb(54, 64, 196)}
 Table, tr, th, td, thead, tbody, tfoot{ border : 1px solid rgb(54, 64, 196)}
